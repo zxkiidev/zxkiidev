@@ -7,16 +7,19 @@
 
 - 🌱 I’m currently learning **Java and Python**
 - 👨‍💻 Still adding things to the Portfolio.
-- 💬 Programming with C#
+- 💬 Programming in VSCode
 - 📫 Contact me via the **Gmail** button below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/zakiixesdev" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=Sf2NuZRCVuaE&format=png&color=000000" alt="zakiixesdev" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=Sf2NuZRCVuaE&format=png&color=000000" alt="dev.to" height="30" width="40" />
   </a>
   <a href="mailto:riegatardioz@gmail.com">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="email" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/jbtjUph8ZJ">
+    <img align="center" src="https://img.icons8.com/?size=256&id=LIJ9IxCSCvNw&format=png" alt="discord" height="30" width="40" />
   </a>
 </p>
 
