@@ -1,23 +1,44 @@
-<h1 align="center">Hello 👋, I'm Zadquiel Tardio</h1>
-<h3 align="center">A programmer student passionate about being a BackEnd Developer</h3>
+# Software Engineer | Backend Development Specialist
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakiixesdev&label=Profile%20views&color=0e75b6&style=flat" alt="zakiixesdev" />
-</p>
-
-- 🌱 I’m currently learning **Java and Python**
-- 👨‍💻 Still adding things to the Portfolio.
-- 💬 Programming in VSCode
-- 📫 Contact me via the **Gmail** button below.
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:riegatardioz@gmail.com">
-    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="email" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=zakiixesdev&label=Profile%20views&color=24292e&style=flat-square" alt="zakiixesdev" />
 </p>
 
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxkiidev&show_icons=true&locale=en&layout=compact" alt="zxkiidev" />
-</p>
+---
+
+### Professional Profile
+Desarrollador Fullstack con capacidad para gestionar el ciclo de vida completo de aplicaciones web. Mi enfoque combina la creación de interfaces de usuario funcionales con arquitecturas Backend eficientes, garantizando una integración fluida entre el cliente y el servidor.
+
+* **Frontend Strategy:** Implementación de estructuras sólidas mediante HTML5, CSS3 y JavaScript, priorizando la experiencia de usuario y el diseño responsivo.
+* **Backend Engineering:** Especializado en el desarrollo de microservicios y APIs robustas utilizando Flask (Python) y Java, con un enfoque estricto en la seguridad y el rendimiento de los datos.
+* **Current Roadmap:** Integración de frameworks modernos y optimización de flujos de trabajo End-to-End.
+
+---
+
+### Technical Stack & Toolset
+* **Languages:** Java, Python.
+* **Environment:** Visual Studio Code & Unix-based environments.
+* **Active Research:** Patrones de diseño y microservicios.
+
+---
+### 🛠 Technical Ecosystem & Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend Development** | Java (Spring), Python (Django/FastAPI) |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+| **Database Management** | PostgreSQL, MySQL |
+| **Learning Pipeline** | System Architecture, API Design |
+---
+
+### Professional Contact
+Si deseas discutir una colaboración técnica o una oportunidad profesional, puedes contactarme directamente:
+
+<a href="mailto:riegatardioz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-riegatardioz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/riegatardio/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
