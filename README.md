@@ -15,13 +15,6 @@ Desenvolvedor **Fullstack** com competências na gestão do ciclo de vida comple
 
 ---
 
-### Technical Stack & Toolset
-* **Languages:** Java, Python.
-* **Environment:** Visual Studio Code & Unix-based environments.
-* **Active Research:** Padrões de desenho (Design Patterns) e Microserviços.
-
----
-
 ### 🛠️ Technical Ecosystem & Strategic Stack
 
 | Business Unit | Technologies & Frameworks |
