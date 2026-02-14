@@ -25,10 +25,10 @@ Desarrollador Fullstack con capacidad para gestionar el ciclo de vida completo d
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend Development** | Java (Spring), Python (Django/FastAPI) |
-| **Tools & Version Control** | Git, GitHub, VS Code |
+| **Backend Development** | Java, Python (Flask), RESTful APIs |
+| **Interface Engineering** | HTML5, CSS3, JavaScript (ES6+) |
 | **Database Management** | PostgreSQL, MySQL |
-| **Learning Pipeline** | System Architecture, API Design |
+| **Learning Pipeline** | System Scalability, Software Architecture |
 ---
 
 ### Professional Contact
