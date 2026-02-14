@@ -1,4 +1,4 @@
-# Software Engineer | Backend Development Specialist
+# Software Engineer | Fullstack Development Specialist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zakiixesdev&label=Profile%20views&color=24292e&style=flat-square" alt="zakiixesdev" />
@@ -6,33 +6,36 @@
 
 ---
 
-### Professional Profile
-Desarrollador Fullstack con capacidad para gestionar el ciclo de vida completo de aplicaciones web. Mi enfoque combina la creación de interfaces de usuario funcionales con arquitecturas Backend eficientes, garantizando una integración fluida entre el cliente y el servidor.
+### Perfil Profissional
+Desenvolvedor **Fullstack** com competências na gestão do ciclo de vida completo de aplicações web. O meu foco combina a criação de interfaces funcionais orientadas ao utilizador com arquiteturas **Backend** eficientes, garantindo uma integração fluida entre o cliente e o servidor.
 
-* **Frontend Strategy:** Implementación de estructuras sólidas mediante HTML5, CSS3 y JavaScript, priorizando la experiencia de usuario y el diseño responsivo.
-* **Backend Engineering:** Especializado en el desarrollo de microservicios y APIs robustas utilizando Flask (Python) y Java, con un enfoque estricto en la seguridad y el rendimiento de los datos.
-* **Current Roadmap:** Integración de frameworks modernos y optimización de flujos de trabajo End-to-End.
+* **Frontend Strategy:** Implementação de estruturas sólidas através de **HTML5**, **CSS3** e **JavaScript**, priorizando a experiência do utilizador e o design responsivo.
+* **Backend Engineering:** Especialização no desenvolvimento de microserviços e APIs robustas utilizando **Flask (Python)** e **Java**, com um foco rigoroso na segurança e na performance de dados.
+* **Current Roadmap:** Integração de frameworks modernos e otimização de fluxos de trabalho *End-to-End*.
 
 ---
 
 ### Technical Stack & Toolset
 * **Languages:** Java, Python.
 * **Environment:** Visual Studio Code & Unix-based environments.
-* **Active Research:** Patrones de diseño y microservicios.
+* **Active Research:** Padrões de desenho (Design Patterns) e Microserviços.
 
 ---
-### 🛠 Technical Ecosystem & Stack
 
-| Category | Technologies |
+### 🛠️ Technical Ecosystem & Strategic Stack
+
+| Business Unit | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend Development** | Java, Python (Flask), RESTful APIs |
+| **Server-Side Architecture** | Java, Python (**Flask**), RESTful APIs |
 | **Interface Engineering** | HTML5, CSS3, JavaScript (ES6+) |
-| **Database Management** | PostgreSQL, MySQL |
-| **Learning Pipeline** | System Scalability, Software Architecture |
+| **Data & Persistence** | PostgreSQL, MySQL |
+| **Development Workflow** | Git, GitHub, VS Code |
+| **Strategic Learning** | System Scalability, Software Architecture |
+
 ---
 
 ### Professional Contact
-Si deseas discutir una colaboración técnica o una oportunidad profesional, puedes contactarme directamente:
+Se desejar discutir uma colaboração técnica ou uma oportunidade profissional, pode contactar-me diretamente:
 
 <a href="mailto:riegatardioz@gmail.com">
   <img src="https://img.shields.io/badge/Email-riegatardioz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
