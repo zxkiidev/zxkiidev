@@ -1,4 +1,4 @@
-# Software Engineer | Fullstack Development Specialist
+# Mainframe Developer | COBOL & DB2 Specialist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zakiixesdev&label=Profile%20views&color=24292e&style=flat-square" alt="zakiixesdev" />
@@ -6,24 +6,34 @@
 
 ---
 
-### Perfil Profissional
-Desenvolvedor **Fullstack** com competências na gestão do ciclo de vida completo de aplicações web. O meu foco combina a criação de interfaces funcionais orientadas ao utilizador com arquiteturas **Backend** eficientes, garantindo uma integração fluida entre o cliente e o servidor.
+### Perfil Profesional
+Desarrollador de software enfocado en **Sistemas Mainframe** y procesamiento de datos a gran escala. Mi enfoque principal es el desarrollo de lógica de negocio robusta y eficiente para sectores que requieren alta disponibilidad y precisión, como la banca y los seguros.
 
-* **Frontend Strategy:** Implementação de estruturas sólidas através de **HTML5**, **CSS3** e **JavaScript**, priorizando a experiência do utilizador e o design responsivo.
-* **Backend Engineering:** Especialização no desenvolvimento de microserviços e APIs robustas utilizando **Flask (Python)** e **Java**, com um foco rigoroso na segurança e na performance de dados.
-* **Current Roadmap:** Integração de frameworks modernos e otimização de fluxos de trabalho *End-to-End*.
+* **Core Development:** Especialización en **COBOL** para procesamiento Batch, manejo de archivos secuenciales y estructuras de datos complejas (Copybooks y Layouts).
+* **Data Management:** Gestión y consulta de bases de datos relacionales mediante **DB2**, con enfoque profesional en el uso de cursores y optimización de SQL.
+* **System Operations:** Conocimientos de **JCL** para la orquestación, asignación de archivos (DD) y ejecución de trabajos en el entorno Mainframe.
+* **Web Basics:** Competencias fundamentales en **HTML5, CSS3 y JavaScript** para el desarrollo de interfaces sencillas.
 
 ---
 
 ### 🛠️ Technical Ecosystem & Strategic Stack
 
+
 | Business Unit | Technologies & Frameworks |
 | :--- | :--- |
-| **Server-Side Architecture** | Java, Python (**Flask**), RESTful APIs |
-| **Interface Engineering** | HTML5, CSS3, JavaScript (ES6+) |
-| **Data & Persistence** | PostgreSQL, MySQL |
-| **Development Workflow** | Git, GitHub, VS Code |
-| **Strategic Learning** | System Scalability, Software Architecture |
+| **Mainframe Core** | **COBOL**, **DB2**, **JCL**, SQL |
+| **Data & Persistence** | Archivos Planos (Flat Files), Gestión de SQLCODE, VSAM |
+| **Interface Engineering** | HTML5, CSS3, JavaScript |
+| **Development Workflow** | Git, GitHub, VS Code, GnuCOBOL |
+| **Strategic Learning** | Lógica de Negocio Bancaria, Gestión de Pólizas, Análisis de Sistemas |
+
+---
+
+### 🚀 Roadmap de Especialización
+Actualmente perfeccionando habilidades en la arquitectura de sistemas de misión crítica, enfocándome en:
+* Lógica avanzada de cálculo para el sector asegurador.
+* Control de errores y excepciones en entornos DB2 (Cursores).
+* Estándares de programación Batch y mantenimiento de sistemas Legacy.
 
 ---
 
