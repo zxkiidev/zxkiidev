@@ -1,4 +1,4 @@
-# Mainframe Developer | COBOL & DB2 Specialist
+# .NET Developer | C# & ASP.NET Core
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zakiixesdev&label=Profile%20views&color=24292e&style=flat-square" alt="zakiixesdev" />
@@ -7,38 +7,44 @@
 ---
 
 ### Perfil Profesional
-Desarrollador de software enfocado en **Sistemas Mainframe** y procesamiento de datos a gran escala. Mi enfoque principal es el desarrollo de lógica de negocio robusta y eficiente para sectores que requieren alta disponibilidad y precisión, como la banca y los seguros.
 
-* **Core Development:** Especialización en **COBOL** para procesamiento Batch, manejo de archivos secuenciales y estructuras de datos complejas (Copybooks y Layouts).
-* **Data Management:** Gestión y consulta de bases de datos relacionales mediante **DB2**, con enfoque profesional en el uso de cursores y optimización de SQL.
-* **System Operations:** Conocimientos de **JCL** para la orquestación, asignación de archivos (DD) y ejecución de trabajos en el entorno Mainframe.
-* **Web Basics:** Competencias fundamentales en **HTML5, CSS3 y JavaScript** para el desarrollo de interfaces sencillas.
+Developer enfocado en el ecosistema **.NET** y el desarrollo de APIs y sistemas backend modernos. Mi enfoque principal es construir lógica de negocio robusta y eficiente sobre la plataforma de Microsoft, con interés en IA y Data Science.
+
+* **Core Development:** Especialización en **C#** como lenguaje principal — variables, control de flujo, clases y LINQ.
+* **Backend & APIs:** Desarrollo de servidores y APIs REST con **ASP.NET Core** y **Minimal APIs**, escuchando peticiones HTTP y devolviendo JSON.
+* **Platform:** Conocimiento de la plataforma **.NET 10** como motor de ejecución y ecosistema de librerías base (`System`, `System.Linq`, etc.).
+* **Mainframe Knowledge:** Conocimientos en **COBOL**, **JCL** y **DB2** para entornos IBM z/OS.
+* **Web Stack:** Competencias en **HTML5, CSS3 y JavaScript** para el desarrollo de interfaces.
 
 ---
 
 ### 🛠️ Technical Ecosystem & Strategic Stack
 
-
 | Business Unit | Technologies & Frameworks |
 | :--- | :--- |
-| **Mainframe Core** | **COBOL**, **DB2**, **JCL**, SQL |
-| **Data & Persistence** | Archivos Planos (Flat Files), Gestión de SQLCODE, VSAM |
-| **Interface Engineering** | HTML5, CSS3, JavaScript |
-| **Development Workflow** | Git, GitHub, VS Code, GnuCOBOL |
-| **Strategic Learning** | Lógica de Negocio Bancaria, Gestión de Pólizas, Análisis de Sistemas |
+| **.NET Platform** | **C#**, **.NET 10**, **ASP.NET Core**, **Minimal APIs** |
+| **Backend & APIs** | REST APIs, `Program.cs`, HTTP Routing, JSON |
+| **Data & Persistence** | **MySQL**, **SQLite**, SQL, Entity Framework |
+| **Interface Engineering** | HTML5, CSS3, JavaScript, Python/Flask |
+| **AI & Automation** | Ollama, ChromaDB, n8n |
+| **Development Workflow** | Git, GitHub, VS Code, Rider |
+| **Mainframe Knowledge** | COBOL, JCL, DB2, z/OS |
 
 ---
 
 ### 🚀 Roadmap de Especialización
-Actualmente perfeccionando habilidades en la arquitectura de sistemas de misión crítica, enfocándome en:
-* Lógica avanzada de cálculo para el sector asegurador.
-* Control de errores y excepciones en entornos DB2 (Cursores).
-* Estándares de programación Batch y mantenimiento de sistemas Legacy.
+
+Actualmente consolidando el ecosistema .NET y expandiendo hacia arquitecturas más complejas:
+
+* Profundización en **ASP.NET Core** — middleware, autenticación y arquitectura en capas.
+* Integración de bases de datos con **Entity Framework Core**.
+* Construcción de proyectos backend reales con C# y Minimal APIs.
 
 ---
 
 ### Professional Contact
-Se desejar discutir uma colaboração técnica ou uma oportunidade profissional, pode contactar-me diretamente:
+
+Si deseas discutir una colaboración técnica o una oportunidad profesional, puedes contactarme directamente:
 
 <a href="mailto:riegatardioz@gmail.com">
   <img src="https://img.shields.io/badge/Email-riegatardioz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
